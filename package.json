@@ -1,5 +1,5 @@
 {
-  "name": "stencil-starter-project-name",
+  "name": "my-rating",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
@@ -11,8 +11,7 @@
   "collection:main": "dist/collection/index.js",
   "unpkg": "dist/stencil-starter-project-name/stencil-starter-project-name.js",
   "files": [
-    "dist/",
-    "loader/"
+    "dist/"
   ],
   "scripts": {
     "build": "stencil build --docs",
